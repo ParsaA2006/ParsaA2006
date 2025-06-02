@@ -20,9 +20,10 @@ I'm a software engineer passionate about building innovative solutions and explo
 - Improving system architecture and performance
 
 ## Connect With Me
-→ LinkedIn
-→ My Personal Website
-→ Email
+→ [LinkedIn](https://www.linkedin.com/in/parsa-ahmadi2006/)  
+→ [My Personal Website](https://parsa-personal-website.vercel.app/)  
+→ [Email](mailto:p3ahmadi@uwaterloo.ca)
+
 
 ## Fun Facts
 - I enjoy solving complex problems
