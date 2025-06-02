@@ -1,4 +1,4 @@
-# Nicholas Chen 👋
+# Parsa Ahmadi 
 
 ## About Me
 I'm a software engineer passionate about building innovative solutions and exploring new technologies. I enjoy tackling complex problems and creating efficient, user-friendly applications.
@@ -20,7 +20,9 @@ I'm a software engineer passionate about building innovative solutions and explo
 - Improving system architecture and performance
 
 ## Connect With Me
-Feel free to reach out and connect! I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
+→ LinkedIn
+→ My Personal Website
+→ Email
 
 ## Fun Facts
 - I enjoy solving complex problems
