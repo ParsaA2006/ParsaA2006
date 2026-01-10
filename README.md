@@ -24,11 +24,5 @@ I'm a software engineer passionate about building innovative solutions and explo
 → [My Personal Website](https://parsa-personal-website.vercel.app/)  
 → [Email](mailto:p3ahmadi@uwaterloo.ca)
 
-
-## Fun Facts
-- I enjoy solving complex problems
-- Always eager to learn new technologies
-- Passionate about creating user-friendly applications
-
 ---
 *"The best way to predict the future is to create it." - Peter Drucker* 
